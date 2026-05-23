@@ -1,0 +1,6 @@
+{
+  "name": "FNAF Night Security Survival",
+  "description": "A FNAF-inspired security camera monitoring and survival game with doors, flashlights, battery consumption, moving between rooms, and night progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
